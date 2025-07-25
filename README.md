@@ -3,7 +3,7 @@
 <br>
 
 🌱 Estoy estudiando **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+<img align="right" alt="Coding" width="400" src="fullstack.gif">
 
 
 <br>
