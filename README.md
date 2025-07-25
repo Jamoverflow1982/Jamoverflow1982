@@ -1,12 +1,9 @@
 <h1 align="center">Hola 👋, Soy Javier Monzón</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
 
 🌱 Estoy estudiando **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
 
 <br>
@@ -66,7 +63,7 @@
 <h3>Mi Estado en GitHub</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamoverflow1982&show_icons=true&theme=dark&locale=en&layout=compact" alt="jamoverflow1982" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jamoverflow1982&show_icons=true&theme=dark&locale=en" alt="jamoverflow1982" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
