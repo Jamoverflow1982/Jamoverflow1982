@@ -1,6 +1,5 @@
-<h1 align="center">Hola 👋, Soy Javier Monzón</h1>
-
-<br>
+<img align="center" alt="Header" width="700" src="github-header-image.png">
+<br><br>
 
 🌱 Estoy estudiando **WEB Development Full-Stack**
 <img align="right" alt="Coding" width="400" src="fullstack.gif">
