@@ -14,15 +14,15 @@ Desarrollador web apasionado que construye aplicaciones modernas, escalables y c
 - ⚡ Fun fact: ¡De páginas básicas a apps React completas con carrito funcional... el progreso es real! 🛒
 
 ### 🛠️ Tecnologías y herramientas
-<img align="left" alt="Java" width="30px" src="https://cdn.simpleicons.org/java/E34F26" />
-<img align="left" alt="Spring Boot" width="30px" src="https://cdn.simpleicons.org/springboot/6DB33F" />
-<img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react/61DAFB" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5/E34F26" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3/1572B6" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img align="left" alt="Git" width="30px" src="https://cdn.simpleicons.org/git/F05032" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/><br/>
 
