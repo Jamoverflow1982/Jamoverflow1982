@@ -14,20 +14,20 @@ Desarrollador web apasionado que construye aplicaciones modernas, escalables y c
 - ⚡ Fun fact: ¡De páginas básicas a apps React completas con carrito funcional... el progreso es real! 🛒
 
 ### 🛠️ Tecnologías y herramientas
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/java/java.png" />
-<img align="left" alt="Spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/spring/spring.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/html/html.png" />
-<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/css/css.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e9562574ea3c3f8e8844448be5f17e5e/master/topics/git/git.png" />
+<img align="left" alt="Java" width="30px" src="https://cdn.simpleicons.org/java/E34F26" />
+<img align="left" alt="Spring Boot" width="30px" src="https://cdn.simpleicons.org/springboot/6DB33F" />
+<img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react/61DAFB" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img align="left" alt="Bootstrap" width="30px" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5/E34F26" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3/1572B6" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.simpleicons.org/mysql/4479A1" />
+<img align="left" alt="Git" width="30px" src="https://cdn.simpleicons.org/git/F05032" />
 
 <br/><br/>
 
 ### 📊 Mis estadísticas en GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamoverflow1982&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamoverflow1982&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamoverflow1982&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,10 +35,10 @@ Desarrollador web apasionado que construye aplicaciones modernas, escalables y c
 
 ### 🔥 Proyectos destacados
 - **[Emporium React (E-commerce con React)](https://emporium-react.netlify.app/)**  
-  Tienda online completa con carrito de compras funcional usando **React + Vite + Context API**. Productos destacados, notificaciones y estado global. ¡Demo en vivo!
+  Tienda online completa con carrito funcional usando **React + Vite + Context API**. ¡Demo en vivo!
 
 - **[Tienda de Arqueros Clemente (Frontend Estático)](https://jamoverflow1982.github.io/Tienda-deportes/)**  
-  E-commerce responsive con Bootstrap, carrusel y carrito en JS vanilla.
+  E-commerce responsive con Bootstrap y carrito en JavaScript.
 
 - **[Back-tienda-de-deportes (Backend API)](https://github.com/Jamoverflow1982/Back-tienda-de-deportes)**  
   API RESTful con **Spring Boot** para gestión de productos (CRUD completo).
@@ -46,7 +46,7 @@ Desarrollador web apasionado que construye aplicaciones modernas, escalables y c
 - **[Mi Curriculum Vitae Online](https://jamoverflow1982.github.io/Curriculum/)**  
   CV profesional interactivo.
 
-¡Próximo nivel: Integrar React frontend con Spring Boot backend para un full stack 100% real! ⚡
+¡Próximo nivel: Integrar React frontend con Spring Boot backend para un full stack completo! ⚡
 
 ### 🔗 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiermonzon82)  
